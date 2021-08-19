@@ -1,1 +1,1 @@
-# coranary-heart-disease-analysis
+# coronary-heart-disease-analysis
